@@ -1,0 +1,35 @@
+README:
+
+Auburn University June - July 2012
+Michelle Hromatka
+Jeffrey West
+
+Supervised by
+Matt Holt
+Dr. Saad Biaz
+
+Computer Science Department
+
+
+UAV Collision Avoidance Using Fuzzy Logic
+
+This code is designed to implement with work done by Matt Holt (found on github here: https://github.com/holtjma/AU-UAV-ROS )
+
+A brief description:
+collisionAvoidance.cpp
+This creates a node for Matt's simulator, designed to send waypoints for Collision Avoidance to each UAV.
+
+standardFunctions.cpp
+A library of functions used by collisionAvoidance.cpp file.
+
+FuzzyLite
+Many of the files in the source folder are from an open source library called FuzzyLite, found here:
+http://code.google.com/p/fuzzy-lite/
+
+
+Contact Info for questions about implementation:
+Michelle Hromatka <mthromatka@csbsju.edu>
+Jeffrey West <j-west.9@onu.edu>
+
+Our website:
+fuzzylogic.pagodabox.com
